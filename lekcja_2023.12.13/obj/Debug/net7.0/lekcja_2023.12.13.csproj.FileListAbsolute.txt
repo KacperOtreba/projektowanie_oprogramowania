@@ -1,0 +1,15 @@
+E:\tech19cs\lekcja_2023.12.13\bin\Debug\net7.0\lekcja_2023.12.13.exe
+E:\tech19cs\lekcja_2023.12.13\bin\Debug\net7.0\lekcja_2023.12.13.deps.json
+E:\tech19cs\lekcja_2023.12.13\bin\Debug\net7.0\lekcja_2023.12.13.runtimeconfig.json
+E:\tech19cs\lekcja_2023.12.13\bin\Debug\net7.0\lekcja_2023.12.13.dll
+E:\tech19cs\lekcja_2023.12.13\bin\Debug\net7.0\lekcja_2023.12.13.pdb
+E:\tech19cs\lekcja_2023.12.13\obj\Debug\net7.0\lekcja_2023.12.13.csproj.AssemblyReference.cache
+E:\tech19cs\lekcja_2023.12.13\obj\Debug\net7.0\lekcja_2023.12.13.GeneratedMSBuildEditorConfig.editorconfig
+E:\tech19cs\lekcja_2023.12.13\obj\Debug\net7.0\lekcja_2023.12.13.AssemblyInfoInputs.cache
+E:\tech19cs\lekcja_2023.12.13\obj\Debug\net7.0\lekcja_2023.12.13.AssemblyInfo.cs
+E:\tech19cs\lekcja_2023.12.13\obj\Debug\net7.0\lekcja_2023.12.13.csproj.CoreCompileInputs.cache
+E:\tech19cs\lekcja_2023.12.13\obj\Debug\net7.0\lekcja_2023.12.13.dll
+E:\tech19cs\lekcja_2023.12.13\obj\Debug\net7.0\refint\lekcja_2023.12.13.dll
+E:\tech19cs\lekcja_2023.12.13\obj\Debug\net7.0\lekcja_2023.12.13.pdb
+E:\tech19cs\lekcja_2023.12.13\obj\Debug\net7.0\lekcja_2023.12.13.genruntimeconfig.cache
+E:\tech19cs\lekcja_2023.12.13\obj\Debug\net7.0\ref\lekcja_2023.12.13.dll
