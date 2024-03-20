@@ -1,0 +1,15 @@
+E:\projektowanie_oprogramowania\lekcja_2024.03.06\bin\Debug\net7.0\lekcja_2024.03.06.exe
+E:\projektowanie_oprogramowania\lekcja_2024.03.06\bin\Debug\net7.0\lekcja_2024.03.06.deps.json
+E:\projektowanie_oprogramowania\lekcja_2024.03.06\bin\Debug\net7.0\lekcja_2024.03.06.runtimeconfig.json
+E:\projektowanie_oprogramowania\lekcja_2024.03.06\bin\Debug\net7.0\lekcja_2024.03.06.dll
+E:\projektowanie_oprogramowania\lekcja_2024.03.06\bin\Debug\net7.0\lekcja_2024.03.06.pdb
+E:\projektowanie_oprogramowania\lekcja_2024.03.06\obj\Debug\net7.0\lekcja_2024.03.06.csproj.AssemblyReference.cache
+E:\projektowanie_oprogramowania\lekcja_2024.03.06\obj\Debug\net7.0\lekcja_2024.03.06.GeneratedMSBuildEditorConfig.editorconfig
+E:\projektowanie_oprogramowania\lekcja_2024.03.06\obj\Debug\net7.0\lekcja_2024.03.06.AssemblyInfoInputs.cache
+E:\projektowanie_oprogramowania\lekcja_2024.03.06\obj\Debug\net7.0\lekcja_2024.03.06.AssemblyInfo.cs
+E:\projektowanie_oprogramowania\lekcja_2024.03.06\obj\Debug\net7.0\lekcja_2024.03.06.csproj.CoreCompileInputs.cache
+E:\projektowanie_oprogramowania\lekcja_2024.03.06\obj\Debug\net7.0\lekcja_2024.03.06.dll
+E:\projektowanie_oprogramowania\lekcja_2024.03.06\obj\Debug\net7.0\refint\lekcja_2024.03.06.dll
+E:\projektowanie_oprogramowania\lekcja_2024.03.06\obj\Debug\net7.0\lekcja_2024.03.06.pdb
+E:\projektowanie_oprogramowania\lekcja_2024.03.06\obj\Debug\net7.0\lekcja_2024.03.06.genruntimeconfig.cache
+E:\projektowanie_oprogramowania\lekcja_2024.03.06\obj\Debug\net7.0\ref\lekcja_2024.03.06.dll

@@ -8,24 +8,26 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/home/redq/.nuget/packages/": {}
+    "C:\\Users\\Sala\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/media/redq/Samsung/programowanie_oprogramowania/lekcja_2023.12.06/lekcja_2023.12.06.csproj",
+      "projectUniqueName": "E:\\Projektowanie-oprogramowania\\lekcja_2023.12.06\\lekcja_2023.12.06.csproj",
       "projectName": "lekcja_2023.12.06",
-      "projectPath": "/media/redq/Samsung/programowanie_oprogramowania/lekcja_2023.12.06/lekcja_2023.12.06.csproj",
-      "packagesPath": "/home/redq/.nuget/packages/",
-      "outputPath": "/media/redq/Samsung/programowanie_oprogramowania/lekcja_2023.12.06/obj/",
+      "projectPath": "E:\\Projektowanie-oprogramowania\\lekcja_2023.12.06\\lekcja_2023.12.06.csproj",
+      "packagesPath": "C:\\Users\\Sala\\.nuget\\packages\\",
+      "outputPath": "E:\\Projektowanie-oprogramowania\\lekcja_2023.12.06\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/redq/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Sala\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -59,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.112/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

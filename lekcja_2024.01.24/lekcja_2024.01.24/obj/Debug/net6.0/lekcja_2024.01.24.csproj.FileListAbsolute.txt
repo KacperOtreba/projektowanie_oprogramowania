@@ -1,0 +1,15 @@
+E:\projektowanie_oprogramowania\lekcja_2024.01.24\lekcja_2024.01.24\bin\Debug\net6.0\lekcja_2024.01.24.exe
+E:\projektowanie_oprogramowania\lekcja_2024.01.24\lekcja_2024.01.24\bin\Debug\net6.0\lekcja_2024.01.24.deps.json
+E:\projektowanie_oprogramowania\lekcja_2024.01.24\lekcja_2024.01.24\bin\Debug\net6.0\lekcja_2024.01.24.runtimeconfig.json
+E:\projektowanie_oprogramowania\lekcja_2024.01.24\lekcja_2024.01.24\bin\Debug\net6.0\lekcja_2024.01.24.dll
+E:\projektowanie_oprogramowania\lekcja_2024.01.24\lekcja_2024.01.24\bin\Debug\net6.0\lekcja_2024.01.24.pdb
+E:\projektowanie_oprogramowania\lekcja_2024.01.24\lekcja_2024.01.24\obj\Debug\net6.0\lekcja_2024.01.24.csproj.AssemblyReference.cache
+E:\projektowanie_oprogramowania\lekcja_2024.01.24\lekcja_2024.01.24\obj\Debug\net6.0\lekcja_2024.01.24.GeneratedMSBuildEditorConfig.editorconfig
+E:\projektowanie_oprogramowania\lekcja_2024.01.24\lekcja_2024.01.24\obj\Debug\net6.0\lekcja_2024.01.24.AssemblyInfoInputs.cache
+E:\projektowanie_oprogramowania\lekcja_2024.01.24\lekcja_2024.01.24\obj\Debug\net6.0\lekcja_2024.01.24.AssemblyInfo.cs
+E:\projektowanie_oprogramowania\lekcja_2024.01.24\lekcja_2024.01.24\obj\Debug\net6.0\lekcja_2024.01.24.csproj.CoreCompileInputs.cache
+E:\projektowanie_oprogramowania\lekcja_2024.01.24\lekcja_2024.01.24\obj\Debug\net6.0\lekcja_2024.01.24.dll
+E:\projektowanie_oprogramowania\lekcja_2024.01.24\lekcja_2024.01.24\obj\Debug\net6.0\refint\lekcja_2024.01.24.dll
+E:\projektowanie_oprogramowania\lekcja_2024.01.24\lekcja_2024.01.24\obj\Debug\net6.0\lekcja_2024.01.24.pdb
+E:\projektowanie_oprogramowania\lekcja_2024.01.24\lekcja_2024.01.24\obj\Debug\net6.0\lekcja_2024.01.24.genruntimeconfig.cache
+E:\projektowanie_oprogramowania\lekcja_2024.01.24\lekcja_2024.01.24\obj\Debug\net6.0\ref\lekcja_2024.01.24.dll
