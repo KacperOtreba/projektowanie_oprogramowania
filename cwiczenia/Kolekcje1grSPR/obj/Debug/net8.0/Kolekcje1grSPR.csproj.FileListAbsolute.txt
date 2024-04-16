@@ -1,0 +1,15 @@
+F:\Projektowanie-oprogramowania\cwiczenia\Kolekcje1grSpr\bin\Debug\net8.0\Kolekcje1grSPR.exe
+F:\Projektowanie-oprogramowania\cwiczenia\Kolekcje1grSpr\bin\Debug\net8.0\Kolekcje1grSPR.deps.json
+F:\Projektowanie-oprogramowania\cwiczenia\Kolekcje1grSpr\bin\Debug\net8.0\Kolekcje1grSPR.runtimeconfig.json
+F:\Projektowanie-oprogramowania\cwiczenia\Kolekcje1grSpr\bin\Debug\net8.0\Kolekcje1grSPR.dll
+F:\Projektowanie-oprogramowania\cwiczenia\Kolekcje1grSpr\bin\Debug\net8.0\Kolekcje1grSPR.pdb
+F:\Projektowanie-oprogramowania\cwiczenia\Kolekcje1grSpr\obj\Debug\net8.0\Kolekcje1grSPR.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projektowanie-oprogramowania\cwiczenia\Kolekcje1grSpr\obj\Debug\net8.0\Kolekcje1grSPR.AssemblyInfoInputs.cache
+F:\Projektowanie-oprogramowania\cwiczenia\Kolekcje1grSpr\obj\Debug\net8.0\Kolekcje1grSPR.AssemblyInfo.cs
+F:\Projektowanie-oprogramowania\cwiczenia\Kolekcje1grSpr\obj\Debug\net8.0\Kolekcje1grSPR.csproj.CoreCompileInputs.cache
+F:\Projektowanie-oprogramowania\cwiczenia\Kolekcje1grSpr\obj\Debug\net8.0\Kolekcje1grSPR.sourcelink.json
+F:\Projektowanie-oprogramowania\cwiczenia\Kolekcje1grSpr\obj\Debug\net8.0\Kolekcje1grSPR.dll
+F:\Projektowanie-oprogramowania\cwiczenia\Kolekcje1grSpr\obj\Debug\net8.0\refint\Kolekcje1grSPR.dll
+F:\Projektowanie-oprogramowania\cwiczenia\Kolekcje1grSpr\obj\Debug\net8.0\Kolekcje1grSPR.pdb
+F:\Projektowanie-oprogramowania\cwiczenia\Kolekcje1grSpr\obj\Debug\net8.0\Kolekcje1grSPR.genruntimeconfig.cache
+F:\Projektowanie-oprogramowania\cwiczenia\Kolekcje1grSpr\obj\Debug\net8.0\ref\Kolekcje1grSPR.dll

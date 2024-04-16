@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lekcja_2024.04.10v3", "lekc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lekcja_2024.04.10v4", "lekcja_2024.04.10v4\lekcja_2024.04.10v4.csproj", "{B33E78DF-C238-44B2-B078-ABA1EFCA1D85}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "cwiczenia", "cwiczenia", "{E31659FE-3905-479B-B85E-DA4ABAB27B70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kolekcje1grSPR", "cwiczenia\Kolekcje1grSPR\Kolekcje1grSPR.csproj", "{5B12DD44-9BEF-49EA-86A5-B983217ECF81}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,11 +79,18 @@ Global
 		{B33E78DF-C238-44B2-B078-ABA1EFCA1D85}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B33E78DF-C238-44B2-B078-ABA1EFCA1D85}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B33E78DF-C238-44B2-B078-ABA1EFCA1D85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B12DD44-9BEF-49EA-86A5-B983217ECF81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B12DD44-9BEF-49EA-86A5-B983217ECF81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B12DD44-9BEF-49EA-86A5-B983217ECF81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B12DD44-9BEF-49EA-86A5-B983217ECF81}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7455172E-66FF-4E21-9438-E2C514AA58BB}
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5B12DD44-9BEF-49EA-86A5-B983217ECF81} = {E31659FE-3905-479B-B85E-DA4ABAB27B70}
 	EndGlobalSection
 EndGlobal

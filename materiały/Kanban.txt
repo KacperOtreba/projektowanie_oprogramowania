@@ -1,0 +1,37 @@
+1. Definicja Kanban - system organizacji produkcji/procesu. Pomaga w maksymalizacji wydajności i ciągłym doskonaleniu. Praca jest wizualizowana w specjalnych tablicach.
+
+
+
+2. Geneza Kanban (kan bahn) - Kan” (看) – znak i “Ban” (板) – tablica. Z początku system ten był używany przez Japończyków w Toyota Production System (TPS) i używali go do zoptymalizowania produkcji samochodów. Potem stał się narzędziem używanym na całym świecie
+
+
+3. Zasady Kanban - zasady zarządzania zmianą - wypisać i krótko opisać
+- zacznij od aktualnych postępów
+- stopniowo zwiększaj postęp, dokonuj ewolucji
+- rozwijaj swoje działania przywódcze na wszystkich etapach zarządzania
+- bądź elastyczny i gotowy na dostosowanie się do nieoczekiwanych zmian
+
+4. Zasady Kanban - zasady dostarczania usług - wypisać i krótko opisać
+- skup się na oczekiwaniach i potrzebach klienta
+- zarządzaj zadaniami do wykonania, a nie pracownikami
+- regularnie analizuj postęp i sieć usług
+- wizualizuj prace w Kanban
+
+
+5. Kadencje w Kanban (pętle zwrotne)
+w chrome
+
+
+6. Role (4-5 ról)
+Lider
+Pracownik
+Kanban master(właściciel)
+Klient
+
+7. Metryki
+- Lead Time to średni czas mierzony od momentu powstania zadania do jego dostarczenia
+- Cycle Time to natomiast średni czas spędzony na wykonaniu zadania – rozpoczyna się w chwili jego podjęcia, a kończy, kiedy zadanie osiąga status “Done”. 
+WIP, Cycle Time, Lead Time, Throughput
+
+8. Wizualizacja (tablica i karta, WIP)
+chrome

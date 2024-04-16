@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projektowanie-oprogramowania\\lekcja_2024.03.13\\lekcja_2024.03.13.csproj": {}
+    "F:\\Projektowanie-oprogramowania\\lekcja_2024.03.13\\lekcja_2024.03.13.csproj": {}
   },
   "projects": {
-    "E:\\Projektowanie-oprogramowania\\lekcja_2024.03.13\\lekcja_2024.03.13.csproj": {
+    "F:\\Projektowanie-oprogramowania\\lekcja_2024.03.13\\lekcja_2024.03.13.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projektowanie-oprogramowania\\lekcja_2024.03.13\\lekcja_2024.03.13.csproj",
+        "projectUniqueName": "F:\\Projektowanie-oprogramowania\\lekcja_2024.03.13\\lekcja_2024.03.13.csproj",
         "projectName": "lekcja_2024.03.13",
-        "projectPath": "E:\\Projektowanie-oprogramowania\\lekcja_2024.03.13\\lekcja_2024.03.13.csproj",
-        "packagesPath": "C:\\Users\\Sala\\.nuget\\packages\\",
-        "outputPath": "E:\\Projektowanie-oprogramowania\\lekcja_2024.03.13\\obj\\",
+        "projectPath": "F:\\Projektowanie-oprogramowania\\lekcja_2024.03.13\\lekcja_2024.03.13.csproj",
+        "packagesPath": "C:\\Users\\Kacper\\.nuget\\packages\\",
+        "outputPath": "F:\\Projektowanie-oprogramowania\\lekcja_2024.03.13\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Sala\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Kacper\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -34,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -50,12 +53,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.17, 7.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[7.0.17, 7.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.17, 7.0.17]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.17, 7.0.17]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
