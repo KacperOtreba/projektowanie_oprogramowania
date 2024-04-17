@@ -43,6 +43,10 @@ namespace Kolekcje
         {
             Console.WriteLine("Malorolna");
         }
+        if (ileW == ileM)
+        {
+            System.Console.WriteLine("Malomiasteczkowa");
+        }
 
         Console.WriteLine();
 

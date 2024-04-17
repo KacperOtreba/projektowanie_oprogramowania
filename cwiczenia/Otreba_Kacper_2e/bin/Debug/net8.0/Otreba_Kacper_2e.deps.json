@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Otreba_Kacper_2e/1.0.0": {
+        "runtime": {
+          "Otreba_Kacper_2e.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Otreba_Kacper_2e/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

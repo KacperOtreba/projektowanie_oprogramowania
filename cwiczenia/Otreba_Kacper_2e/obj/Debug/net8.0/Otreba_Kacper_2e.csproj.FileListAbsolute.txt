@@ -1,0 +1,14 @@
+C:\Users\Sala\Desktop\Otreba_Kacper_2e\bin\Debug\net8.0\Otreba_Kacper_2e.exe
+C:\Users\Sala\Desktop\Otreba_Kacper_2e\bin\Debug\net8.0\Otreba_Kacper_2e.deps.json
+C:\Users\Sala\Desktop\Otreba_Kacper_2e\bin\Debug\net8.0\Otreba_Kacper_2e.runtimeconfig.json
+C:\Users\Sala\Desktop\Otreba_Kacper_2e\bin\Debug\net8.0\Otreba_Kacper_2e.dll
+C:\Users\Sala\Desktop\Otreba_Kacper_2e\bin\Debug\net8.0\Otreba_Kacper_2e.pdb
+C:\Users\Sala\Desktop\Otreba_Kacper_2e\obj\Debug\net8.0\Otreba_Kacper_2e.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sala\Desktop\Otreba_Kacper_2e\obj\Debug\net8.0\Otreba_Kacper_2e.AssemblyInfoInputs.cache
+C:\Users\Sala\Desktop\Otreba_Kacper_2e\obj\Debug\net8.0\Otreba_Kacper_2e.AssemblyInfo.cs
+C:\Users\Sala\Desktop\Otreba_Kacper_2e\obj\Debug\net8.0\Otreba_Kacper_2e.csproj.CoreCompileInputs.cache
+C:\Users\Sala\Desktop\Otreba_Kacper_2e\obj\Debug\net8.0\Otreba_Kacper_2e.dll
+C:\Users\Sala\Desktop\Otreba_Kacper_2e\obj\Debug\net8.0\refint\Otreba_Kacper_2e.dll
+C:\Users\Sala\Desktop\Otreba_Kacper_2e\obj\Debug\net8.0\Otreba_Kacper_2e.pdb
+C:\Users\Sala\Desktop\Otreba_Kacper_2e\obj\Debug\net8.0\Otreba_Kacper_2e.genruntimeconfig.cache
+C:\Users\Sala\Desktop\Otreba_Kacper_2e\obj\Debug\net8.0\ref\Otreba_Kacper_2e.dll
