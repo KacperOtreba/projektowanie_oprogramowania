@@ -1,6 +1,8 @@
-﻿namespace Kolekcje
+﻿using System.Collections;
+
+namespace Kolekcje
 {
-    class Program
+    static class Program
     {
         static void Main(string[] args)
         {
@@ -11,8 +13,8 @@
         // Czy istnieje tablica malomiasteczkowa, czyli taka, ktora mialaby tyle samo elementow powyzej i ponizej sredniej?  NIE
         // Jesli tak zadeklaruj ja w programi z reki
 
-        /*System.Console.WriteLine("Zadanie 0");
-        string[] cyfrystr = Console.ReadLine().Split(" ");
+        System.Console.WriteLine("Zadanie 0");
+        string[] cyfrystr = Console.ReadLine()!.Split(" ");
 
         int[] cyfry = Array.ConvertAll(cyfrystr, int.Parse);
 
@@ -49,7 +51,7 @@
         // Jesli jest kilka takich podciagow o tej samej dlugosci podaj ten, kory wystepuje w niej jako pierwszy z prawej.
         // Wyswietla: cala tablice, element poczatkowy podciagu, element koncowy podciagu i sume elemenentow w tym podciagu
             System.Console.WriteLine("Zadanie 1");
-            */Random random = new Random();/*
+            Random random = new Random();
             int[] array = new int[30];
 
             for (int i = 0; i < 30; i++)
@@ -98,7 +100,7 @@
 
             System.Console.WriteLine(podciags[najdluzszy].ElementAt(0));
             System.Console.WriteLine(podciags[najdluzszy].ElementAt(podciags[najdluzszy].Count -1));
-            System.Console.WriteLine(podciags[najdluzszy].Sum());*/
+            System.Console.WriteLine(podciags[najdluzszy].Sum());
 
             // 2. Zbior cyfr od 0 do 9. Stworz dwie losowe list 6-elementowe.
             // W jednej z nich ma wystepowac 6 roznych elementow np [1,2,3,4,5,6] z powtorzeniamiy,
@@ -108,6 +110,7 @@
             // - jesli elementy wystepuje lacznie w dwoch listach czesciej niz 2 razy to ma sie pojawic w wynikowej 2 razy
             // Dla powyzszych tablic tablica wynikowa sklada sie z [1,1,2,3,3,7,8,9]. 
             // Na wyjsciu wyswietl w 3 kolejnych wierszach wszystkie 3 listy.
+            System.Console.WriteLine("Zadanie 2");
             List<int> lista1 = new();
             List<int> lista2 = new();
             
@@ -198,10 +201,69 @@
             {
                 System.Console.Write(item + " ");
             }
+            System.Console.WriteLine();
+
+            // 3. 
+            System.Console.WriteLine("Zadanie 3");
+            string[] alfa = new string[] {"A","B","C","D"};
             
+            ArrayList listaaa = new ArrayList();
+            for (int i = 0; i < 30; i++)
+            {
+                string ciag = "";
+                for (int j = 0; j < 3; j++)
+                {
+                    ciag += alfa[random.Next(0,3)];
+                }
+                listaaa.Add(ciag);
+            }
+
+            foreach (var item in listaaa)
+            {
+                System.Console.Write(item + " ");
+            }
+
+            List<string> pary = new();
+
+
+            
+            foreach (var item1 in listaaa)
+            {
+                string slowo1 = item1.ToString()!;
+                foreach (var item2 in listaaa)
+                {
+                    string slowo2 = item2.ToString()!;
+                    if (CzyAnagram(slowo1, slowo2) && slowo1 != slowo2)
+                    {
+                        pary.Add($"{slowo1} - {slowo2},");
+                    }
+                }
+            }
+
+            System.Console.WriteLine();
+            foreach (var item in pary.Distinct().ToList())
+            {
+                System.Console.Write(item+" ");
+            }
+            System.Console.WriteLine(pary.Count);
 
         }
         
+        static bool CzyAnagram(string slowo1, string slowo2)
+        {
+            char[] c1 = slowo1.ToCharArray();
+            char[] c2 = slowo2.ToCharArray();
+            Array.Sort(c1);
+            Array.Sort(c2);
+            for (int i = 0; i < slowo1.Length; i++)
+            {
+                if (c1[i] != c2[i])
+                {
+                    return false;
+                }
+            }
+            return true;
+        } 
     }
 
 }

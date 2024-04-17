@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Projektowanie-oprogramowania\\cwiczenia\\Kolekcje1grSpr\\Kolekcje1grSPR.csproj": {}
+    "E:\\Projektowanie-oprogramowania\\cwiczenia\\Kolekcje1grSPR\\Kolekcje1grSPR.csproj": {}
   },
   "projects": {
-    "F:\\Projektowanie-oprogramowania\\cwiczenia\\Kolekcje1grSpr\\Kolekcje1grSPR.csproj": {
+    "E:\\Projektowanie-oprogramowania\\cwiczenia\\Kolekcje1grSPR\\Kolekcje1grSPR.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projektowanie-oprogramowania\\cwiczenia\\Kolekcje1grSpr\\Kolekcje1grSPR.csproj",
+        "projectUniqueName": "E:\\Projektowanie-oprogramowania\\cwiczenia\\Kolekcje1grSPR\\Kolekcje1grSPR.csproj",
         "projectName": "Kolekcje1grSPR",
-        "projectPath": "F:\\Projektowanie-oprogramowania\\cwiczenia\\Kolekcje1grSpr\\Kolekcje1grSPR.csproj",
-        "packagesPath": "C:\\Users\\Kacper\\.nuget\\packages\\",
-        "outputPath": "F:\\Projektowanie-oprogramowania\\cwiczenia\\Kolekcje1grSpr\\obj\\",
+        "projectPath": "E:\\Projektowanie-oprogramowania\\cwiczenia\\Kolekcje1grSPR\\Kolekcje1grSPR.csproj",
+        "packagesPath": "C:\\Users\\Sala\\.nuget\\packages\\",
+        "outputPath": "E:\\Projektowanie-oprogramowania\\cwiczenia\\Kolekcje1grSPR\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Kacper\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Sala\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HeelsN2Pn1WYYk0IPMpnZxR5ZFaGe5ge5IipWlRWYsSlK1eXLQ3fChD59tvEjgs5IUJZQYCimqbdwJLimJfiLg==",
+  "dgSpecHash": "id82Slv3avnJ/4NaLaV17XrBcKH+Ilro0ECwQNu4tbd07Tx20AbqIc5vS4oSsOBFqIOp0kUQRI8OvzO4ehLkSQ==",
   "success": true,
-  "projectFilePath": "F:\\Projektowanie-oprogramowania\\lekcja_2024.04.10v3\\lekcja_2024.04.10v3.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Kacper\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
-    "C:\\Users\\Kacper\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
-    "C:\\Users\\Kacper\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512",
-    "C:\\Users\\Kacper\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.17\\microsoft.netcore.app.host.win-x64.7.0.17.nupkg.sha512"
-  ],
+  "projectFilePath": "E:\\Projektowanie-oprogramowania\\lekcja_2024.04.10v3\\lekcja_2024.04.10v3.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
