@@ -1,0 +1,15 @@
+F:\Projektowanie-oprogramowania\cwiczenia\KlasyCwiczenia\Fasada4\bin\Debug\net8.0\Fasada4.exe
+F:\Projektowanie-oprogramowania\cwiczenia\KlasyCwiczenia\Fasada4\bin\Debug\net8.0\Fasada4.deps.json
+F:\Projektowanie-oprogramowania\cwiczenia\KlasyCwiczenia\Fasada4\bin\Debug\net8.0\Fasada4.runtimeconfig.json
+F:\Projektowanie-oprogramowania\cwiczenia\KlasyCwiczenia\Fasada4\bin\Debug\net8.0\Fasada4.dll
+F:\Projektowanie-oprogramowania\cwiczenia\KlasyCwiczenia\Fasada4\bin\Debug\net8.0\Fasada4.pdb
+F:\Projektowanie-oprogramowania\cwiczenia\KlasyCwiczenia\Fasada4\obj\Debug\net8.0\Fasada4.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projektowanie-oprogramowania\cwiczenia\KlasyCwiczenia\Fasada4\obj\Debug\net8.0\Fasada4.AssemblyInfoInputs.cache
+F:\Projektowanie-oprogramowania\cwiczenia\KlasyCwiczenia\Fasada4\obj\Debug\net8.0\Fasada4.AssemblyInfo.cs
+F:\Projektowanie-oprogramowania\cwiczenia\KlasyCwiczenia\Fasada4\obj\Debug\net8.0\Fasada4.csproj.CoreCompileInputs.cache
+F:\Projektowanie-oprogramowania\cwiczenia\KlasyCwiczenia\Fasada4\obj\Debug\net8.0\Fasada4.sourcelink.json
+F:\Projektowanie-oprogramowania\cwiczenia\KlasyCwiczenia\Fasada4\obj\Debug\net8.0\Fasada4.dll
+F:\Projektowanie-oprogramowania\cwiczenia\KlasyCwiczenia\Fasada4\obj\Debug\net8.0\refint\Fasada4.dll
+F:\Projektowanie-oprogramowania\cwiczenia\KlasyCwiczenia\Fasada4\obj\Debug\net8.0\Fasada4.pdb
+F:\Projektowanie-oprogramowania\cwiczenia\KlasyCwiczenia\Fasada4\obj\Debug\net8.0\Fasada4.genruntimeconfig.cache
+F:\Projektowanie-oprogramowania\cwiczenia\KlasyCwiczenia\Fasada4\obj\Debug\net8.0\ref\Fasada4.dll

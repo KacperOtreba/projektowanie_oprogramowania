@@ -1,0 +1,15 @@
+F:\Projektowanie-oprogramowania\cwiczenia\KlasyCwiczenia\Fasada2\obj\Debug\net8.0\Fasada2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projektowanie-oprogramowania\cwiczenia\KlasyCwiczenia\Fasada2\obj\Debug\net8.0\Fasada2.AssemblyInfoInputs.cache
+F:\Projektowanie-oprogramowania\cwiczenia\KlasyCwiczenia\Fasada2\obj\Debug\net8.0\Fasada2.AssemblyInfo.cs
+F:\Projektowanie-oprogramowania\cwiczenia\KlasyCwiczenia\Fasada2\obj\Debug\net8.0\Fasada2.csproj.CoreCompileInputs.cache
+F:\Projektowanie-oprogramowania\cwiczenia\KlasyCwiczenia\Fasada2\obj\Debug\net8.0\Fasada2.sourcelink.json
+F:\Projektowanie-oprogramowania\cwiczenia\KlasyCwiczenia\Fasada2\bin\Debug\net8.0\Fasada2.exe
+F:\Projektowanie-oprogramowania\cwiczenia\KlasyCwiczenia\Fasada2\bin\Debug\net8.0\Fasada2.deps.json
+F:\Projektowanie-oprogramowania\cwiczenia\KlasyCwiczenia\Fasada2\bin\Debug\net8.0\Fasada2.runtimeconfig.json
+F:\Projektowanie-oprogramowania\cwiczenia\KlasyCwiczenia\Fasada2\bin\Debug\net8.0\Fasada2.dll
+F:\Projektowanie-oprogramowania\cwiczenia\KlasyCwiczenia\Fasada2\bin\Debug\net8.0\Fasada2.pdb
+F:\Projektowanie-oprogramowania\cwiczenia\KlasyCwiczenia\Fasada2\obj\Debug\net8.0\Fasada2.dll
+F:\Projektowanie-oprogramowania\cwiczenia\KlasyCwiczenia\Fasada2\obj\Debug\net8.0\refint\Fasada2.dll
+F:\Projektowanie-oprogramowania\cwiczenia\KlasyCwiczenia\Fasada2\obj\Debug\net8.0\Fasada2.pdb
+F:\Projektowanie-oprogramowania\cwiczenia\KlasyCwiczenia\Fasada2\obj\Debug\net8.0\Fasada2.genruntimeconfig.cache
+F:\Projektowanie-oprogramowania\cwiczenia\KlasyCwiczenia\Fasada2\obj\Debug\net8.0\ref\Fasada2.dll
