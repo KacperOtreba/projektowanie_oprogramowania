@@ -1,0 +1,14 @@
+C:\Users\Sala\Desktop\Drugie zadanie\bin\Debug\net8.0\Drugie zadanie.exe
+C:\Users\Sala\Desktop\Drugie zadanie\bin\Debug\net8.0\Drugie zadanie.deps.json
+C:\Users\Sala\Desktop\Drugie zadanie\bin\Debug\net8.0\Drugie zadanie.runtimeconfig.json
+C:\Users\Sala\Desktop\Drugie zadanie\bin\Debug\net8.0\Drugie zadanie.dll
+C:\Users\Sala\Desktop\Drugie zadanie\bin\Debug\net8.0\Drugie zadanie.pdb
+C:\Users\Sala\Desktop\Drugie zadanie\obj\Debug\net8.0\Drugie zadanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sala\Desktop\Drugie zadanie\obj\Debug\net8.0\Drugie zadanie.AssemblyInfoInputs.cache
+C:\Users\Sala\Desktop\Drugie zadanie\obj\Debug\net8.0\Drugie zadanie.AssemblyInfo.cs
+C:\Users\Sala\Desktop\Drugie zadanie\obj\Debug\net8.0\Drugie zadanie.csproj.CoreCompileInputs.cache
+C:\Users\Sala\Desktop\Drugie zadanie\obj\Debug\net8.0\Drugie zadanie.dll
+C:\Users\Sala\Desktop\Drugie zadanie\obj\Debug\net8.0\refint\Drugie zadanie.dll
+C:\Users\Sala\Desktop\Drugie zadanie\obj\Debug\net8.0\Drugie zadanie.pdb
+C:\Users\Sala\Desktop\Drugie zadanie\obj\Debug\net8.0\Drugie zadanie.genruntimeconfig.cache
+C:\Users\Sala\Desktop\Drugie zadanie\obj\Debug\net8.0\ref\Drugie zadanie.dll
